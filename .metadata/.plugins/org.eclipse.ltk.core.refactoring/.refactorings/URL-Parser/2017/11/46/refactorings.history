@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UrlParser.java&apos; to &apos;URL-Parser/src/com.parsers&apos;&#x0A;- Original project: &apos;URL-Parser&apos;&#x0A;- Destination element: &apos;URL-Parser/src/com.parsers&apos;&#x0A;- Original element: &apos;UrlParser.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.parsers" element1="/src&lt;{UrlParser.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1511047309469" units="1" version="1.0"/>
+</session>
